@@ -2,17 +2,7 @@
 
 # Lancer l'api
 
-Un Dockerfile est présent à la racine du projet, mais n'est potentiellement pas fonctionnel pour le moment.
-
-Docker ne fonctionnant pas sur mon ordinnateur actuel ( pc de remplacement temporaire ), je n'ai pas pu tester mes commandes pour le moment.
-
-Une mise à jour trés rapide doit arriver. 
-
-En attendant il est possible de lancer le projet via node.
-
-Commencez par cloner le repo :
-
-<code>git clone https://github.com/Thaisrr/TP-cybersecu.git </code>
+Cloner le repo,
 
 Ensuite, à la racine du dossier : 
 
